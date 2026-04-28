@@ -1,20 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#fff7f3"/>
-      <stop offset="100%" stop-color="#ffeedd"/>
-    </linearGradient>
-  </defs>
-  <rect width="810" height="1080" rx="36" fill="url(#bg)"/>
-  <rect x="50" y="46" width="180" height="44" rx="22" fill="#3a1f18"/>
-  <text x="72" y="76" font-size="24" fill="#fff" font-family="Inter,Noto Sans SC,sans-serif" font-weight="700">AI Agent 术语</text>
-  <rect x="620" y="46" width="140" height="44" rx="22" fill="#3a1f18"/>
-  <text x="653" y="76" font-size="24" fill="#fff" font-family="JetBrains Mono,monospace" font-weight="700">04/12</text>
-  <text x="72" y="190" font-size="66" fill="#3a1f18" font-family="Inter,Noto Sans SC,sans-serif" font-weight="900">03 Prompt ≠ Skill</text>
-  <line x1="72" y1="230" x2="738" y2="230" stroke="#3a1f18" stroke-width="4" opacity="0.2"/>
-  <text x="72" y="360" font-size="42" fill="#6f4a3e" font-family="Inter,Noto Sans SC,sans-serif">Prompt 是一次口头指令；Skill</text>
-<text x="72" y="418" font-size="42" fill="#6f4a3e" font-family="Inter,Noto Sans SC,sans-serif">是可复制的流程系统。一次性和可沉淀，差很</text>
-<text x="72" y="476" font-size="42" fill="#6f4a3e" font-family="Inter,Noto Sans SC,sans-serif">多。</text>
-  <rect x="72" y="930" width="666" height="96" rx="20" fill="#fff" stroke="#3a1f18" stroke-width="3"/>
-  <text x="96" y="989" font-size="36" fill="#3a1f18" font-family="Inter,Noto Sans SC,sans-serif" font-weight="700">可直接下载图片使用（SVG 高清）</text>
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Prompt vs Skill">
+    <div class="page-dot">4 / 12</div>
+    <p class="lede" style="color:var(--accent);font-weight:700">Term 03</p>
+    <h2 class="h2 mt-s">Prompt ≠ Skill</h2>
+    <div class="hand-box mt-l" data-anim="slide-left">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">Prompt：一句临时口头指令</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">“帮我写一条小红书文案”</p>
+    </div>
+    <div class="hand-box mt-m" style="background:#fff5ef" data-anim="slide-right">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">Skill：可复用的完整操作系统</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">“先定人设→再抽卖点→最后 A/B 两版文案”</p>
+    </div>
+    <div class="sticker green" style="bottom:145px;right:65px;transform:rotate(6deg)">一次性 vs 可复制</div>
+    <div class="notes">对比是核心记忆点，帮助读者判断自己该写 prompt 还是做 skill。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
 </svg>

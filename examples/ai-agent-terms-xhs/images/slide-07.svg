@@ -1,19 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#fff7f3"/>
-      <stop offset="100%" stop-color="#ffeedd"/>
-    </linearGradient>
-  </defs>
-  <rect width="810" height="1080" rx="36" fill="url(#bg)"/>
-  <rect x="50" y="46" width="180" height="44" rx="22" fill="#3a1f18"/>
-  <text x="72" y="76" font-size="24" fill="#fff" font-family="Inter,Noto Sans SC,sans-serif" font-weight="700">AI Agent 术语</text>
-  <rect x="620" y="46" width="140" height="44" rx="22" fill="#3a1f18"/>
-  <text x="653" y="76" font-size="24" fill="#fff" font-family="JetBrains Mono,monospace" font-weight="700">07/12</text>
-  <text x="72" y="190" font-size="66" fill="#3a1f18" font-family="Inter,Noto Sans SC,sans-serif" font-weight="900">06 Context（上下文）</text>
-  <line x1="72" y1="230" x2="738" y2="230" stroke="#3a1f18" stroke-width="4" opacity="0.2"/>
-  <text x="72" y="360" font-size="42" fill="#6f4a3e" font-family="Inter,Noto Sans SC,sans-serif">上下文就是背景包：历史对话、文档、角色、</text>
-<text x="72" y="418" font-size="42" fill="#6f4a3e" font-family="Inter,Noto Sans SC,sans-serif">约束。太少会空泛，太乱会跑偏。</text>
-  <rect x="72" y="930" width="666" height="96" rx="20" fill="#fff" stroke="#3a1f18" stroke-width="3"/>
-  <text x="96" y="989" font-size="36" fill="#3a1f18" font-family="Inter,Noto Sans SC,sans-serif" font-weight="700">可直接下载图片使用（SVG 高清）</text>
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Context">
+    <div class="page-dot">7 / 12</div>
+    <div class="num-circle" style="background:var(--accent-3);color:var(--text-1)">6</div>
+    <h2 class="h2 mt-m">Context（上下文）</h2>
+    <div class="hand-box mt-l">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">上下文 = 当前任务的“背景包”</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">包括历史对话、文档内容、角色设定、限制条件。</p>
+    </div>
+    <div class="stack mt-m anim-stagger-list">
+      <div class="hand-box" style="background:#fff5ef"><b style="font-size:20px">上下文太少：</b><p class="dim" style="font-size:16px;margin-top:4px">答得空泛</p></div>
+      <div class="hand-box" style="background:#fff5ef"><b style="font-size:20px">上下文太乱：</b><p class="dim" style="font-size:16px;margin-top:4px">答偏题</p></div>
+    </div>
+    <div class="notes">可类比“你只发‘帮我订票’却不说城市日期”，AI 很难做对。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
 </svg>

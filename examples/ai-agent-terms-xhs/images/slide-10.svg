@@ -1,19 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#fff7f3"/>
-      <stop offset="100%" stop-color="#ffeedd"/>
-    </linearGradient>
-  </defs>
-  <rect width="810" height="1080" rx="36" fill="url(#bg)"/>
-  <rect x="50" y="46" width="180" height="44" rx="22" fill="#3a1f18"/>
-  <text x="72" y="76" font-size="24" fill="#fff" font-family="Inter,Noto Sans SC,sans-serif" font-weight="700">AI Agent 术语</text>
-  <rect x="620" y="46" width="140" height="44" rx="22" fill="#3a1f18"/>
-  <text x="653" y="76" font-size="24" fill="#fff" font-family="JetBrains Mono,monospace" font-weight="700">10/12</text>
-  <text x="72" y="190" font-size="66" fill="#3a1f18" font-family="Inter,Noto Sans SC,sans-serif" font-weight="900">09 Guardrails（护栏）</text>
-  <line x1="72" y1="230" x2="738" y2="230" stroke="#3a1f18" stroke-width="4" opacity="0.2"/>
-  <text x="72" y="360" font-size="42" fill="#6f4a3e" font-family="Inter,Noto Sans SC,sans-serif">像汽车安全带：平时无感，关键时刻防止越界</text>
-<text x="72" y="418" font-size="42" fill="#6f4a3e" font-family="Inter,Noto Sans SC,sans-serif">和事故。</text>
-  <rect x="72" y="930" width="666" height="96" rx="20" fill="#fff" stroke="#3a1f18" stroke-width="3"/>
-  <text x="96" y="989" font-size="36" fill="#3a1f18" font-family="Inter,Noto Sans SC,sans-serif" font-weight="700">可直接下载图片使用（SVG 高清）</text>
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Guardrails">
+    <div class="page-dot">10 / 12</div>
+    <p class="lede" style="color:var(--bad);font-weight:700">Term 09</p>
+    <h2 class="h2 mt-s">Guardrails（护栏）</h2>
+    <div class="hand-box mt-l" data-anim="zoom-in">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">给 Agent 设“不能越线”的规则。</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">比如：不泄露隐私、不执行危险命令、敏感内容必须二次确认。</p>
+    </div>
+    <div class="hand-box mt-m" style="background:#fff5ef">
+      <p style="font-size:18px;margin:0;color:var(--text-2)">生活例子：</p>
+      <p style="font-size:23px;margin:8px 0 0;color:var(--text-1);font-weight:800">像汽车的安全带和防撞梁，平时无感，关键时刻救命。</p>
+    </div>
+    <div class="notes">强调企业落地最关心“安全与可控”，不是只看速度。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
 </svg>
