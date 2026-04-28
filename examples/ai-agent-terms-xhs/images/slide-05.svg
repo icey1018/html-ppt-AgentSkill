@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff7f3"/>
+      <stop offset="100%" stop-color="#ffeedd"/>
+    </linearGradient>
+  </defs>
+  <rect width="810" height="1080" rx="36" fill="url(#bg)"/>
+  <rect x="50" y="46" width="180" height="44" rx="22" fill="#3a1f18"/>
+  <text x="72" y="76" font-size="24" fill="#fff" font-family="Inter,Noto Sans SC,sans-serif" font-weight="700">AI Agent 术语</text>
+  <rect x="620" y="46" width="140" height="44" rx="22" fill="#3a1f18"/>
+  <text x="653" y="76" font-size="24" fill="#fff" font-family="JetBrains Mono,monospace" font-weight="700">05/12</text>
+  <text x="72" y="190" font-size="66" fill="#3a1f18" font-family="Inter,Noto Sans SC,sans-serif" font-weight="900">04 Workflow（工作流）</text>
+  <line x1="72" y1="230" x2="738" y2="230" stroke="#3a1f18" stroke-width="4" opacity="0.2"/>
+  <text x="72" y="360" font-size="42" fill="#6f4a3e" font-family="Inter,Noto Sans SC,sans-serif">像外卖流程：接单 → 备餐 →</text>
+<text x="72" y="418" font-size="42" fill="#6f4a3e" font-family="Inter,Noto Sans SC,sans-serif">配送。顺序明确，才能规模化执行。</text>
+  <rect x="72" y="930" width="666" height="96" rx="20" fill="#fff" stroke="#3a1f18" stroke-width="3"/>
+  <text x="96" y="989" font-size="36" fill="#3a1f18" font-family="Inter,Noto Sans SC,sans-serif" font-weight="700">可直接下载图片使用（SVG 高清）</text>
+</svg>
