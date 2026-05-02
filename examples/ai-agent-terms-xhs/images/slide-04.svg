@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Prompt vs Skill">
+    <div class="page-dot">4 / 12</div>
+    <p class="lede" style="color:var(--accent);font-weight:700">Term 03</p>
+    <h2 class="h2 mt-s">Prompt ≠ Skill</h2>
+    <div class="hand-box mt-l" data-anim="slide-left">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">Prompt：一句临时口头指令</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">“帮我写一条小红书文案”</p>
+    </div>
+    <div class="hand-box mt-m" style="background:#fff5ef" data-anim="slide-right">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">Skill：可复用的完整操作系统</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">“先定人设→再抽卖点→最后 A/B 两版文案”</p>
+    </div>
+    <div class="sticker green" style="bottom:145px;right:65px;transform:rotate(6deg)">一次性 vs 可复制</div>
+    <div class="notes">对比是核心记忆点，帮助读者判断自己该写 prompt 还是做 skill。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Context">
+    <div class="page-dot">7 / 12</div>
+    <div class="num-circle" style="background:var(--accent-3);color:var(--text-1)">6</div>
+    <h2 class="h2 mt-m">Context（上下文）</h2>
+    <div class="hand-box mt-l">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">上下文 = 当前任务的“背景包”</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">包括历史对话、文档内容、角色设定、限制条件。</p>
+    </div>
+    <div class="stack mt-m anim-stagger-list">
+      <div class="hand-box" style="background:#fff5ef"><b style="font-size:20px">上下文太少：</b><p class="dim" style="font-size:16px;margin-top:4px">答得空泛</p></div>
+      <div class="hand-box" style="background:#fff5ef"><b style="font-size:20px">上下文太乱：</b><p class="dim" style="font-size:16px;margin-top:4px">答偏题</p></div>
+    </div>
+    <div class="notes">可类比“你只发‘帮我订票’却不说城市日期”，AI 很难做对。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

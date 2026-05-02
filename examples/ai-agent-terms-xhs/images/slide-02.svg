@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="什么是 Agent" data-fx="gradient-blob">
+    <div class="page-dot">2 / 12</div>
+    <p class="lede" style="font-weight:700;color:var(--accent)">Term 01</p>
+    <h2 class="h2 mt-s" data-anim="fade-right">Agent（智能体）</h2>
+    <div class="hand-box mt-l" data-anim="zoom-in">
+      <p style="font-size:24px;margin:0;color:var(--text-1);font-weight:800">一句话：会“自己跑流程”的 AI 助理</p>
+      <p style="font-size:20px;margin:10px 0 0;color:var(--text-2);line-height:1.7">它不只回答问题，还会拆步骤、调用工具、回头检查。</p>
+    </div>
+    <div class="hand-box mt-m" style="background:#fff5ef" data-anim="fade-up">
+      <p style="font-size:18px;margin:0;color:var(--text-2)">生活例子：</p>
+      <p style="font-size:23px;margin:8px 0 0;color:var(--text-1);font-weight:800">像“会自己比价+下单+催发货”的网购小助理。</p>
+    </div>
+    <div class="notes">强调 Agent 与普通聊天机器人的区别：能执行、多步骤、可复盘。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

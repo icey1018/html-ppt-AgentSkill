@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Planner">
+    <div class="page-dot">9 / 12</div>
+    <div class="num-circle">8</div>
+    <h2 class="h2 mt-m">Planner（计划器）</h2>
+    <div class="hand-box mt-l">
+      <p style="font-size:24px;margin:0;color:var(--text-1);font-weight:800">先列计划，再执行。</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">复杂任务会先拆成 5~10 个小步骤，逐个完成。</p>
+    </div>
+    <div class="stack mt-m anim-stagger-list">
+      <div class="hand-box"><b style="font-size:20px">好处 1：</b><p class="dim" style="font-size:16px;margin-top:4px">减少遗漏和返工</p></div>
+      <div class="hand-box"><b style="font-size:20px">好处 2：</b><p class="dim" style="font-size:16px;margin-top:4px">进度透明，可随时打断调整</p></div>
+    </div>
+    <div class="notes">生活例子：搬家前先列清单，而不是直接乱装箱。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

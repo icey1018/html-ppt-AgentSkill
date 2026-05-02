@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="总结与互动">
+    <div class="page-dot">12 / 12</div>
+    <div class="big-emoji" style="margin-top:56px">🧠</div>
+    <h2 class="h2 tc mt-m">10 个词，一句话复盘</h2>
+    <p class="lede tc mt-m" style="padding:0 24px"><b style="color:var(--text-1)">Agent 会做事，Skill 定标准，Workflow 管流程，Tool 给能力，Context/Memory 给信息，Planner 做拆解，Guardrails 保安全，Eval 保质量。</b></p>
+    <h1 class="h1 tc mt-s" style="font-size:56px;color:var(--accent)">收藏这张术语卡 ✅</h1>
+    <div class="tag-row" style="justify-content:center;margin-top:26px">
+      <span class="ht">#AI Agent</span><span class="ht">#技能包</span><span class="ht">#小红书图文</span><span class="ht">#AI入门</span>
+    </div>
+    <div class="bottom-bar"><div><span class="avatar">术</span> <b style="color:var(--text-1);margin-left:8px">@AI效率实验室</b></div><div>❤️ 欢迎转发给同事</div></div>
+    <div class="notes">收尾引导互动：让读者留言“最难懂的是哪个词”。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

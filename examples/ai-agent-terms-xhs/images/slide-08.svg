@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Memory">
+    <div class="page-dot">8 / 12</div>
+    <p class="lede" style="color:var(--good);font-weight:700">Term 07</p>
+    <h2 class="h2 mt-s">Memory（记忆）</h2>
+    <div class="hand-box mt-l" data-anim="fade-right">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">短期记忆：这次会话里记住你刚说的话</p>
+    </div>
+    <div class="hand-box mt-m" style="background:#fff5ef" data-anim="fade-left">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">长期记忆：跨会话记住你的偏好</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">如“你喜欢 3 点式总结”“输出先给结论”。</p>
+    </div>
+    <div class="sticker pink" style="bottom:140px;left:50%;transform:translateX(-50%) rotate(-3deg)">像常去咖啡店，店员记得你少糖</div>
+    <div class="notes">提醒用户：记忆越准，重复沟通成本越低。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

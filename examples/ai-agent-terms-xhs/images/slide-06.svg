@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Tool Call">
+    <div class="page-dot">6 / 12</div>
+    <p class="lede" style="color:var(--accent);font-weight:700">Term 05</p>
+    <h2 class="h2 mt-s">Tool Call（工具调用）</h2>
+    <div class="hand-box mt-l" data-anim="fade-up">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">Agent 不会“魔法”，它要借助工具。</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">例如：查天气 API、读表格、发邮件、画图。</p>
+    </div>
+    <div class="hand-box mt-m" style="background:#fff5ef" data-anim="zoom-in">
+      <p style="font-size:18px;margin:0;color:var(--text-2)">生活例子：</p>
+      <p style="font-size:24px;margin:8px 0 0;color:var(--text-1);font-weight:800">像你点外卖时用到地图、支付、骑手系统。</p>
+    </div>
+    <div class="big-emoji" style="margin-top:20px;font-size:110px">🧰</div>
+    <div class="notes">强调“能不能接工具”，决定 Agent 上限。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Eval">
+    <div class="page-dot">11 / 12</div>
+    <div class="num-circle" style="background:var(--accent-2)">10</div>
+    <h2 class="h2 mt-m">Eval（评测）</h2>
+    <div class="stack mt-l anim-stagger-list">
+      <div class="hand-box"><b style="font-size:22px">评什么？</b><p class="dim" style="font-size:16px;margin-top:4px">准确率、稳定性、速度、成本</p></div>
+      <div class="hand-box"><b style="font-size:22px">怎么评？</b><p class="dim" style="font-size:16px;margin-top:4px">用同一批测试题持续回归测试</p></div>
+      <div class="hand-box"><b style="font-size:22px">为什么评？</b><p class="dim" style="font-size:16px;margin-top:4px">避免“这周好用，下周翻车”</p></div>
+    </div>
+    <div class="sticker green" style="bottom:145px;right:62px;transform:rotate(4deg)">像新菜上线前先试吃</div>
+    <div class="notes">点出核心：没有 eval，就没有“可上线”的确定性。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

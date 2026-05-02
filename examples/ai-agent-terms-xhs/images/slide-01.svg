@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="封面">
+    <div class="page-dot">1 / 12</div>
+    <div class="sticker pink" style="top:120px;left:48px;transform:rotate(-6deg)">AI 小白友好</div>
+    <div class="sticker yellow" style="top:140px;right:64px;transform:rotate(5deg)">生活化比喻</div>
+    <div style="margin-top:190px" data-anim="fade-up">
+      <p class="lede" style="font-size:24px;color:var(--text-1);font-weight:700">5 分钟看懂 AI Agent skills</p>
+      <h1 class="h1 mt-s">AI Agent skills<br><span class="cover-title">常用术语解释</span><br>——用生活案例解释</h1>
+    </div>
+    <div class="bottom-bar"><div><span class="avatar">术</span> <b style="color:var(--text-1);margin-left:8px">@AI效率实验室</b></div><div>← 左右键翻页</div></div>
+    <div class="notes">开场：告诉读者这是一篇“术语翻译器”，每页一个词，用生活画面帮助记忆。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

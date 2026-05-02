@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Workflow">
+    <div class="page-dot">5 / 12</div>
+    <div class="num-circle" style="background:var(--accent-2)">4</div>
+    <h2 class="h2 mt-m">Workflow（工作流）</h2>
+    <div class="stack mt-l anim-stagger-list">
+      <div class="hand-box"><b style="font-size:22px">Step A：收信息</b><p class="dim" style="font-size:16px;margin-top:4px">需求、预算、截止时间</p></div>
+      <div class="hand-box"><b style="font-size:22px">Step B：做判断</b><p class="dim" style="font-size:16px;margin-top:4px">优先级、风险点、可行方案</p></div>
+      <div class="hand-box"><b style="font-size:22px">Step C：产出结果</b><p class="dim" style="font-size:16px;margin-top:4px">文档、代码、提醒、跟进</p></div>
+    </div>
+    <div class="sticker yellow" style="bottom:150px;left:66px;transform:rotate(-4deg)">像外卖：接单→备餐→配送</div>
+    <div class="notes">强调 workflow 是顺序，不是关键词堆砌。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>

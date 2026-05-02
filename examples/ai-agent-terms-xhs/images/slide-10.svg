@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="1080" viewBox="0 0 810 1080">
+  <foreignObject x="0" y="0" width="810" height="1080">
+    <html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+      <head>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="../../../assets/fonts.css"/>
+<link rel="stylesheet" href="../../../assets/base.css"/>
+<link rel="stylesheet" href="../../../assets/themes/xiaohongshu-white.css"/>
+<link rel="stylesheet" href="../../../assets/animations/animations.css"/>
+<link rel="stylesheet" href="../style.css"/>
+        <style>
+          html, body { margin:0; padding:0; width:810px; height:1080px; overflow:hidden; background:transparent; }
+          body.tpl-xhs-post { min-height:1080px; background:transparent; display:block; }
+          body.tpl-xhs-post .deck { width:810px; height:1080px; }
+          body.tpl-xhs-post .slide { position:relative; inset:auto; width:810px; height:1080px; opacity:1; pointer-events:auto; }
+        </style>
+      </head>
+      <body class="tpl-xhs-post">
+        <div class="deck">
+          <section class="slide is-active" data-title="Guardrails">
+    <div class="page-dot">10 / 12</div>
+    <p class="lede" style="color:var(--bad);font-weight:700">Term 09</p>
+    <h2 class="h2 mt-s">Guardrails（护栏）</h2>
+    <div class="hand-box mt-l" data-anim="zoom-in">
+      <p style="font-size:22px;margin:0;color:var(--text-1);font-weight:800">给 Agent 设“不能越线”的规则。</p>
+      <p style="font-size:18px;margin:8px 0 0;color:var(--text-2)">比如：不泄露隐私、不执行危险命令、敏感内容必须二次确认。</p>
+    </div>
+    <div class="hand-box mt-m" style="background:#fff5ef">
+      <p style="font-size:18px;margin:0;color:var(--text-2)">生活例子：</p>
+      <p style="font-size:23px;margin:8px 0 0;color:var(--text-1);font-weight:800">像汽车的安全带和防撞梁，平时无感，关键时刻救命。</p>
+    </div>
+    <div class="notes">强调企业落地最关心“安全与可控”，不是只看速度。</div>
+  </section>
+        </div>
+      </body>
+    </html>
+  </foreignObject>
+</svg>
